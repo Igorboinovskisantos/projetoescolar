@@ -8,7 +8,7 @@ font-family: "Poppins", sans-serif;
 }
 header{
 background-color: #0D0B61;
-color: #294669;
+color: #fff;
 width: 100%;
 padding: 20px;
 }
@@ -57,7 +57,7 @@ width: 38px;
 padding: 4px 8px;
 }
 .estudante{
-background-image: background-color(#E4D329);
+background-image: background-color(#478B8D);
 padding: 24px 0;
 }
 
@@ -70,7 +70,7 @@ display: flex;
 justify-content: space-around;
 }
 .escola{
-background-image: linear-gradient(#40A2E3,#7FC2EF);
+background-image: linear-gradient(#E4D329,#7FC2EF);
 color: white;
 display: flex;
 justify-content:center;
