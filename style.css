@@ -18,7 +18,6 @@ margin: 0 auto;
 display: flex;
 align-items: center;
 justify-content: center;
-position: relative;
 }
 .cabecalho-imagem{
 width: 10%;
@@ -27,12 +26,9 @@ justify-content: flex-start;
 align-items: center;
 }
 .titulo_site{
-  position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    margin: 0;
 padding: 50px;
 text-align: center;
+width: 50%;
 font-size: 50px;
 }
 .sociais{
