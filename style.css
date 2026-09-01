@@ -38,8 +38,12 @@ width: 25%;
 padding-right: 30px;
 }
 .banner1{
-display: flex;
-justify-content: center;
+position:relative;
+width:100%;
+}
+.banner1 img{
+width:100%;
+display:block;
 }
 .estudante_titulo{
 padding: 50px;
